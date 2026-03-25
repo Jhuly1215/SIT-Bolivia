@@ -1,0 +1,508 @@
+{
+  "country": "Bolivia",
+  "purpose": "seed data for initial map navigation",
+  "warning": "City records below are seed centers and focus boxes for UI navigation. They are not official municipal or urban legal boundaries.",
+  "count": 25,
+  "items": [
+    {
+      "department": "La Paz",
+      "city": "La Paz",
+      "slug": "la-paz",
+      "lat": -16.4951,
+      "lng": -68.1336,
+      "rank": "primary",
+      "role": "capital_departamental",
+      "source": "YoViajo capital_departamental",
+      "focus_bbox": [
+        -68.2736,
+        -16.6351,
+        -67.9936,
+        -16.3551
+      ],
+      "center": [
+        -68.1336,
+        -16.4951
+      ]
+    },
+    {
+      "department": "La Paz",
+      "city": "El Alto",
+      "slug": "el-alto",
+      "lat": -16.5047,
+      "lng": -68.1638,
+      "rank": "primary",
+      "role": "metro_principal",
+      "source": "manual seed for initial front",
+      "focus_bbox": [
+        -68.3038,
+        -16.6447,
+        -68.0238,
+        -16.3647
+      ],
+      "center": [
+        -68.1638,
+        -16.5047
+      ]
+    },
+    {
+      "department": "La Paz",
+      "city": "Viacha",
+      "slug": "viacha",
+      "lat": -16.6517,
+      "lng": -68.2941,
+      "rank": "secondary",
+      "role": "industrial",
+      "source": "manual seed for initial front",
+      "focus_bbox": [
+        -68.3941,
+        -16.7517,
+        -68.1941,
+        -16.5517
+      ],
+      "center": [
+        -68.2941,
+        -16.6517
+      ]
+    },
+    {
+      "department": "Santa Cruz",
+      "city": "Santa Cruz de la Sierra",
+      "slug": "santa-cruz-de-la-sierra",
+      "lat": -17.7833,
+      "lng": -63.1821,
+      "rank": "primary",
+      "role": "capital_departamental",
+      "source": "YoViajo capital_departamental",
+      "focus_bbox": [
+        -63.3221,
+        -17.9233,
+        -63.0421,
+        -17.6433
+      ],
+      "center": [
+        -63.1821,
+        -17.7833
+      ]
+    },
+    {
+      "department": "Santa Cruz",
+      "city": "Montero",
+      "slug": "montero",
+      "lat": -17.3387,
+      "lng": -63.25,
+      "rank": "secondary",
+      "role": "metro_norte",
+      "source": "manual seed for initial front",
+      "focus_bbox": [
+        -63.35,
+        -17.4387,
+        -63.15,
+        -17.2387
+      ],
+      "center": [
+        -63.25,
+        -17.3387
+      ]
+    },
+    {
+      "department": "Santa Cruz",
+      "city": "Warnes",
+      "slug": "warnes",
+      "lat": -17.5167,
+      "lng": -63.1667,
+      "rank": "secondary",
+      "role": "metro_norte",
+      "source": "manual seed for initial front",
+      "focus_bbox": [
+        -63.2667,
+        -17.6167,
+        -63.0667,
+        -17.4167
+      ],
+      "center": [
+        -63.1667,
+        -17.5167
+      ]
+    },
+    {
+      "department": "Cochabamba",
+      "city": "Cochabamba",
+      "slug": "cochabamba",
+      "lat": -17.3895,
+      "lng": -66.1568,
+      "rank": "primary",
+      "role": "capital_departamental",
+      "source": "YoViajo capital_departamental",
+      "focus_bbox": [
+        -66.2968,
+        -17.5295,
+        -66.0168,
+        -17.2495
+      ],
+      "center": [
+        -66.1568,
+        -17.3895
+      ]
+    },
+    {
+      "department": "Cochabamba",
+      "city": "Sacaba",
+      "slug": "sacaba",
+      "lat": -17.397,
+      "lng": -66.0383,
+      "rank": "secondary",
+      "role": "metro_este",
+      "source": "manual seed for initial front",
+      "focus_bbox": [
+        -66.1383,
+        -17.497,
+        -65.9383,
+        -17.297
+      ],
+      "center": [
+        -66.0383,
+        -17.397
+      ]
+    },
+    {
+      "department": "Cochabamba",
+      "city": "Quillacollo",
+      "slug": "quillacollo",
+      "lat": -17.3923,
+      "lng": -66.279,
+      "rank": "secondary",
+      "role": "metro_oeste",
+      "source": "manual seed for initial front",
+      "focus_bbox": [
+        -66.379,
+        -17.4923,
+        -66.179,
+        -17.2923
+      ],
+      "center": [
+        -66.279,
+        -17.3923
+      ]
+    },
+    {
+      "department": "Oruro",
+      "city": "Oruro",
+      "slug": "oruro",
+      "lat": -17.9712,
+      "lng": -67.1138,
+      "rank": "primary",
+      "role": "capital_departamental",
+      "source": "YoViajo capital_departamental",
+      "focus_bbox": [
+        -67.2538,
+        -18.1112,
+        -66.9738,
+        -17.8312
+      ],
+      "center": [
+        -67.1138,
+        -17.9712
+      ]
+    },
+    {
+      "department": "Oruro",
+      "city": "Huanuni",
+      "slug": "huanuni",
+      "lat": -18.289,
+      "lng": -66.8358,
+      "rank": "secondary",
+      "role": "minero",
+      "source": "manual seed for initial front",
+      "focus_bbox": [
+        -66.9358,
+        -18.389,
+        -66.7358,
+        -18.189
+      ],
+      "center": [
+        -66.8358,
+        -18.289
+      ]
+    },
+    {
+      "department": "Potosí",
+      "city": "Potosí",
+      "slug": "potosi",
+      "lat": -19.5828,
+      "lng": -65.7528,
+      "rank": "primary",
+      "role": "capital_departamental",
+      "source": "YoViajo capital_departamental",
+      "focus_bbox": [
+        -65.8928,
+        -19.7228,
+        -65.6128,
+        -19.4428
+      ],
+      "center": [
+        -65.7528,
+        -19.5828
+      ]
+    },
+    {
+      "department": "Potosí",
+      "city": "Uyuni",
+      "slug": "uyuni",
+      "lat": -20.4607,
+      "lng": -66.825,
+      "rank": "secondary",
+      "role": "turismo_logistica",
+      "source": "manual seed for initial front",
+      "focus_bbox": [
+        -66.925,
+        -20.5607,
+        -66.725,
+        -20.3607
+      ],
+      "center": [
+        -66.825,
+        -20.4607
+      ]
+    },
+    {
+      "department": "Potosí",
+      "city": "Villazón",
+      "slug": "villazon",
+      "lat": -22.0866,
+      "lng": -65.5942,
+      "rank": "secondary",
+      "role": "frontera",
+      "source": "manual seed for initial front",
+      "focus_bbox": [
+        -65.6942,
+        -22.1866,
+        -65.4942,
+        -21.9866
+      ],
+      "center": [
+        -65.5942,
+        -22.0866
+      ]
+    },
+    {
+      "department": "Chuquisaca",
+      "city": "Sucre",
+      "slug": "sucre",
+      "lat": -19.0478,
+      "lng": -65.2592,
+      "rank": "primary",
+      "role": "capital_departamental_capital_constitucional",
+      "source": "YoViajo capital_departamental",
+      "focus_bbox": [
+        -65.3992,
+        -19.1878,
+        -65.1192,
+        -18.9078
+      ],
+      "center": [
+        -65.2592,
+        -19.0478
+      ]
+    },
+    {
+      "department": "Chuquisaca",
+      "city": "Tarabuco",
+      "slug": "tarabuco",
+      "lat": -19.1817,
+      "lng": -64.9183,
+      "rank": "secondary",
+      "role": "patrimonial",
+      "source": "manual seed for initial front",
+      "focus_bbox": [
+        -65.0183,
+        -19.2817,
+        -64.8183,
+        -19.0817
+      ],
+      "center": [
+        -64.9183,
+        -19.1817
+      ]
+    },
+    {
+      "department": "Chuquisaca",
+      "city": "Monteagudo",
+      "slug": "monteagudo",
+      "lat": -19.7992,
+      "lng": -63.9542,
+      "rank": "secondary",
+      "role": "regional",
+      "source": "manual seed for initial front",
+      "focus_bbox": [
+        -64.0542,
+        -19.8992,
+        -63.8542,
+        -19.6992
+      ],
+      "center": [
+        -63.9542,
+        -19.7992
+      ]
+    },
+    {
+      "department": "Tarija",
+      "city": "Tarija",
+      "slug": "tarija",
+      "lat": -21.5344,
+      "lng": -64.7292,
+      "rank": "primary",
+      "role": "capital_departamental",
+      "source": "YoViajo capital_departamental",
+      "focus_bbox": [
+        -64.8692,
+        -21.6744,
+        -64.5892,
+        -21.3944
+      ],
+      "center": [
+        -64.7292,
+        -21.5344
+      ]
+    },
+    {
+      "department": "Tarija",
+      "city": "Yacuiba",
+      "slug": "yacuiba",
+      "lat": -22.0164,
+      "lng": -63.6775,
+      "rank": "secondary",
+      "role": "frontera",
+      "source": "manual seed for initial front",
+      "focus_bbox": [
+        -63.7775,
+        -22.1164,
+        -63.5775,
+        -21.9164
+      ],
+      "center": [
+        -63.6775,
+        -22.0164
+      ]
+    },
+    {
+      "department": "Tarija",
+      "city": "Bermejo",
+      "slug": "bermejo",
+      "lat": -22.7321,
+      "lng": -64.3376,
+      "rank": "secondary",
+      "role": "frontera",
+      "source": "manual seed for initial front",
+      "focus_bbox": [
+        -64.4376,
+        -22.8321,
+        -64.2376,
+        -22.6321
+      ],
+      "center": [
+        -64.3376,
+        -22.7321
+      ]
+    },
+    {
+      "department": "Beni",
+      "city": "Trinidad",
+      "slug": "trinidad",
+      "lat": -14.8353,
+      "lng": -64.9041,
+      "rank": "primary",
+      "role": "capital_departamental",
+      "source": "YoViajo capital_departamental",
+      "focus_bbox": [
+        -65.0441,
+        -14.9753,
+        -64.7641,
+        -14.6953
+      ],
+      "center": [
+        -64.9041,
+        -14.8353
+      ]
+    },
+    {
+      "department": "Beni",
+      "city": "Riberalta",
+      "slug": "riberalta",
+      "lat": -10.9833,
+      "lng": -66.1,
+      "rank": "secondary",
+      "role": "amazonia",
+      "source": "manual seed for initial front",
+      "focus_bbox": [
+        -66.2,
+        -11.0833,
+        -66.0,
+        -10.8833
+      ],
+      "center": [
+        -66.1,
+        -10.9833
+      ]
+    },
+    {
+      "department": "Beni",
+      "city": "Guayaramerín",
+      "slug": "guayaramerin",
+      "lat": -10.8237,
+      "lng": -65.3587,
+      "rank": "secondary",
+      "role": "frontera",
+      "source": "manual seed for initial front",
+      "focus_bbox": [
+        -65.4587,
+        -10.9237,
+        -65.2587,
+        -10.7237
+      ],
+      "center": [
+        -65.3587,
+        -10.8237
+      ]
+    },
+    {
+      "department": "Pando",
+      "city": "Cobija",
+      "slug": "cobija",
+      "lat": -11.0267,
+      "lng": -68.7692,
+      "rank": "primary",
+      "role": "capital_departamental",
+      "source": "YoViajo capital_departamental",
+      "focus_bbox": [
+        -68.9092,
+        -11.1667,
+        -68.6292,
+        -10.8867
+      ],
+      "center": [
+        -68.7692,
+        -11.0267
+      ]
+    },
+    {
+      "department": "Pando",
+      "city": "Porvenir",
+      "slug": "porvenir",
+      "lat": -11.1029,
+      "lng": -68.6592,
+      "rank": "secondary",
+      "role": "regional",
+      "source": "manual seed for initial front",
+      "focus_bbox": [
+        -68.7592,
+        -11.2029,
+        -68.5592,
+        -11.0029
+      ],
+      "center": [
+        -68.6592,
+        -11.1029
+      ]
+    }
+  ]
+}

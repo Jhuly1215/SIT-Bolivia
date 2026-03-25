@@ -1,0 +1,168 @@
+{
+  "country": "Bolivia",
+  "navigation_flow": [
+    "country",
+    "department",
+    "city",
+    "regulatory_view"
+  ],
+  "start_department_recommendation": "La Paz",
+  "hierarchy": {
+    "Beni": {
+      "department_id": "BE",
+      "center": [
+        -64.685,
+        -13.405
+      ],
+      "bbox": [
+        -67.56,
+        -16.42,
+        -61.53,
+        -10.38
+      ],
+      "cities": [
+        "trinidad",
+        "riberalta",
+        "guayaramerin"
+      ]
+    },
+    "Chuquisaca": {
+      "department_id": "CH",
+      "center": [
+        -64.26,
+        -19.915
+      ],
+      "bbox": [
+        -65.69,
+        -21.5,
+        -62.19,
+        -18.34
+      ],
+      "cities": [
+        "sucre",
+        "tarabuco",
+        "monteagudo"
+      ]
+    },
+    "Cochabamba": {
+      "department_id": "CO",
+      "center": [
+        -65.63,
+        -17.175
+      ],
+      "bbox": [
+        -67.0,
+        -18.68,
+        -64.19,
+        -15.67
+      ],
+      "cities": [
+        "cochabamba",
+        "sacaba",
+        "quillacollo"
+      ]
+    },
+    "La Paz": {
+      "department_id": "LP",
+      "center": [
+        -68.385,
+        -14.945
+      ],
+      "bbox": [
+        -69.64,
+        -18.05,
+        -66.73,
+        -11.85
+      ],
+      "cities": [
+        "la-paz",
+        "el-alto",
+        "viacha"
+      ]
+    },
+    "Oruro": {
+      "department_id": "OR",
+      "center": [
+        -67.83875,
+        -18.595
+      ],
+      "bbox": [
+        -69.14,
+        -19.88,
+        -66.08,
+        -17.32
+      ],
+      "cities": [
+        "oruro",
+        "huanuni"
+      ]
+    },
+    "Pando": {
+      "department_id": "PA",
+      "center": [
+        -67.3575,
+        -11.085
+      ],
+      "bbox": [
+        -69.57,
+        -12.5,
+        -65.29,
+        -9.67
+      ],
+      "cities": [
+        "cobija",
+        "porvenir"
+      ]
+    },
+    "Potosi": {
+      "department_id": "PO",
+      "center": [
+        -66.94625,
+        -20.345
+      ],
+      "bbox": [
+        -68.77,
+        -22.9,
+        -64.71,
+        -17.8
+      ],
+      "cities": []
+    },
+    "Santa Cruz": {
+      "department_id": "SC",
+      "center": [
+        -61.565,
+        -16.965
+      ],
+      "bbox": [
+        -64.84,
+        -20.47,
+        -57.45,
+        -13.47
+      ],
+      "cities": [
+        "santa-cruz-de-la-sierra",
+        "montero",
+        "warnes"
+      ]
+    },
+    "Tarija": {
+      "department_id": "TA",
+      "center": [
+        -63.961618,
+        -21.875
+      ],
+      "bbox": [
+        -65.42,
+        -22.88,
+        -62.26,
+        -20.88
+      ],
+      "cities": [
+        "tarija",
+        "yacuiba",
+        "bermejo"
+      ]
+    }
+  }
+}
