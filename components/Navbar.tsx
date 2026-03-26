@@ -11,7 +11,7 @@ export default function Navbar() {
         </div>
         <div>
           <h1 className="text-lg font-bold text-slate-800 leading-tight">SIT-Bolivia</h1>
-          <p className="text-[10px] text-slate-500 uppercase tracking-wider font-semibold">SISTEMA DE INFORMACIÓN TERRITORIAL BOLIVIANA</p>
+          <p className="text-[10px] text-slate-500 uppercase tracking-wider font-semibold">SISTEMA DE INFORMACIÓN TERRITORIAL DE BOLIVIA</p>
         </div>
       </div>
 
