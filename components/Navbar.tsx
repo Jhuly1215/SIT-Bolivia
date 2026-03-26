@@ -11,7 +11,7 @@ export default function Navbar() {
         </div>
         <div>
           <h1 className="text-lg font-bold text-slate-800 leading-tight">SIT-Bolivia</h1>
-          <p className="text-[10px] text-slate-500 uppercase tracking-wider font-semibold">SISTEMA DE INFORMACIÓN TERRITORIAL</p>
+          <p className="text-[10px] text-slate-500 uppercase tracking-wider font-semibold">SISTEMA DE INFORMACIÓN TERRITORIAL BOLIVIANA</p>
         </div>
       </div>
 
@@ -29,8 +29,8 @@ export default function Navbar() {
             <HelpCircle className="w-5 h-5" />
           </button>
           <div className="w-8 h-8 rounded-full bg-slate-100 flex items-center justify-center border border-slate-200 text-slate-400 overflow-hidden">
-             {/* Simple user placeholder avatar */}
-             <User className="w-6 h-6 mt-2" />
+            {/* Simple user placeholder avatar */}
+            <User className="w-6 h-6 mt-2" />
           </div>
         </div>
       </div>
