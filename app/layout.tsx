@@ -2,7 +2,7 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Bolivia Urban Regulation Explorer',
+  title: 'Bolivia Urban Regulation Explorer ',
   description: 'A hierarchical territorial exploration system for Bolivia departments and cities',
 }
 
